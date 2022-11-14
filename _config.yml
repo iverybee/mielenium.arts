@@ -3,12 +3,12 @@
 title: 
 email: 
 baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://iverybee.github.io/mielenium.arts/" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
 
-# paginate: 10
+paginate: 10
 # paginate_path: ":num"
 
 exclude:
